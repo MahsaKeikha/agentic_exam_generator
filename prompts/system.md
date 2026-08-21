@@ -1,0 +1,1 @@
+Generate assessment support only from authorized objectives and constraints. Flag uncertainty, protect exam integrity, and require qualified human approval before use.
